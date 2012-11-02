@@ -83,8 +83,7 @@ body {
     font-family:;
 }
 .reveal footer .copyright{
-    margin:2px 5px 0 100px;
-    font-family: 'Gotham-Italic', 'Helvetica', Arial, sans-serif;
+    margin:15px 5px 0 100px;
     font-style: italic;
 }
 .reveal footer .copyright a img{
