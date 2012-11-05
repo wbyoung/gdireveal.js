@@ -97,6 +97,11 @@ body {
 .left{float:left}
 .right{float:right}
 .clear{clear:both}
+.blue{color:#01A9B4 }
+.green{color:#92BB44}
+.yellow{color:#EDAB23}
+.pink{color:#F05B62}
+.red{color:#8B0036}
 
 /*********************************************
  * HEADERS
