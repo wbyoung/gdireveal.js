@@ -89,7 +89,14 @@ body {
 .reveal footer .copyright a img{
     vertical-align: middle;
 }
-
+/*********************************************
+* OVERRIDES
+**********************************************/
+.left-align{text-align:left}
+.right-align{ text-align:right}
+.left{float:left}
+.right{float:right}
+.clear{clear:both}
 
 /*********************************************
  * HEADERS
